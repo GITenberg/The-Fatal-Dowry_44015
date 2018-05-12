@@ -1,0 +1,42 @@
+_repo: The-Fatal-Dowry_44015
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44015-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Massinger, Philip
+    birthdate: 1583
+    deathdate: 1640
+    gutenberg_agent_id: '40158'
+    url: http://www.gutenberg.org/2009/agents/40158
+  - agent_name: Field, Nathaniel
+    aliases:
+    - Ffeilde, Nathan
+    - Field, Nathaniel
+    - Feild, Nathan
+    - Feilde, Nathan
+    - Field, Nat.
+    birthdate: 1587
+    gutenberg_agent_id: '42519'
+    url: http://www.gutenberg.org/2009/agents/42519
+  editor:
+    agent_name: Lockert, Charles Lacy
+    birthdate: 1888
+    gutenberg_agent_id: '42520'
+    url: http://www.gutenberg.org/2009/agents/42520
+description: ''
+gutenberg_issued: '2013-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama'
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+title: The Fatal Dowry
+url: http://www.gutenberg.org/ebooks/44015
