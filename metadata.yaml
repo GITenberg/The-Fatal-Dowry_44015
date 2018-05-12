@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '42520'
     url: http://www.gutenberg.org/2009/agents/42520
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44015#The-Fatal-Dowry
 gutenberg_issued: '2013-10-23'
 gutenberg_type: Text
 identifiers:
